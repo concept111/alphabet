@@ -4,28 +4,34 @@
    "redirectUrl": "",
    "moreApps": [
       {
-         "title": "",
-         "description": "",
-         "thumb": "",
-         "url": ""
+         "title": "Huggy vs FNF Horror Coloring",
+         "description": "Huggy is one of the new mods in Friday Night Funkin'. In the game FNF Huggy Coloring, you have to control this particular character",
+         "thumb": "https://raw.githubusercontent.com/concept111/icon/main/huggy%20vs%20fnf.png",
+         "url": "https://play.google.com/store/apps/details?id=com.coloringhuggyvs.fnfhorrordrawing&hl=in&gl=US"
       },
       {
-         "title": "",
-         "description": "",
-         "thumb": "",
-         "url": ""
+         "title": "Coloring of Brawl Stars Hero",
+         "description": "Brawl star characters coloring is an app for fans where you can color your favorite brawler star characters. All Brawl Stars fans, now you can colour your own hero Brawl Stars,3D coloring book BS brawl stars is a very useful tool for boys and girls both to develop the sense of color and increase the level of concentration! It can be played anytime, anywhere, easily share to social platforms.",
+         "thumb": "https://raw.githubusercontent.com/concept111/icon/main/brawl%20stars.png",
+         "url": "https://play.google.com/store/apps/details?id=com.coloringbrawl.starsheroesdrawing&hl=in&gl=US"
       },
       {
-         "title": "",
-         "description": "",
-         "thumb": "",
-         "url": ""
+         "title": "Pop It Coloring Game",
+         "description": "Pop It Coloring Game: Fidget Toys Paint Color Game – amazing anti-stress coloring book with beautiful pictures! Just paint color, relax your mind and be happy!",
+         "thumb": "https://raw.githubusercontent.com/concept111/icon/main/pop%20it.png",
+         "url": "https://play.google.com/store/apps/details?id=com.coloringpopit.glowfidgetgame&hl=in&gl=US"
       },
       {
-         "title": "",
-         "description": "",
-         "thumb": "",
-         "url": ""
+         "title": "Spy x Family coloring book",
+         "description": "The Spy X Family Coloring Games application will take you into the colorful fantasy world of the characters of Spy X Family. This Spy X Family Coloring Games app is designed to be colored by number, Pixel Art is a fun free game in spare Time.",
+         "thumb": "https://raw.githubusercontent.com/concept111/icon/main/spy%20x%20family.png",
+         "url": "https://play.google.com/store/apps/details?id=com.spyxfamilrycoloring.anyadrawinggame&hl=in&gl=US"
+      },
+      {
+         "title": "Rainbow Friends coloring book",
+         "description": "Welcome to the Super Android app for Rainbow friends Coloring book will definitely surprise you with all the different cute colors that it has to draw overall the coloring horror of rainbow monster blue pages you like!",
+         "thumb": "https://raw.githubusercontent.com/concept111/icon/main/rainbow.png",
+         "url": "https://play.google.com/store/apps/details?id=com.coloringrainbowfriend.bluemonsterdrawing&hl=in&gl=US"
       }
    ]
 }
